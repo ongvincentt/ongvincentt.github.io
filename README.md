@@ -1,5 +1,5 @@
 # ongvincentt.github.io
-<!DOCTYPE html>
+
 <html>
 <head>
 
